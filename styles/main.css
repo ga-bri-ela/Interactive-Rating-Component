@@ -69,18 +69,18 @@ p {
 
 #submit-btn {
     width: 100%;
-    background-color: hsl(0, 0%, 100%);
+    background-color: hsl(25, 97%, 53%);
     padding: 15px;
     border-radius: 30px;
     border: none;
-    color: hsl(25, 97%, 53%);
+    color: hsl(0, 0%, 100%);
     letter-spacing: 2px;
     font-weight: bold;
 }
 
 #submit-btn:hover {
-    background-color: hsl(25, 97%, 53%);
-    color:hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 100%);
+    color:hsl(25, 97%, 53%;
     cursor: pointer;
 }
 
