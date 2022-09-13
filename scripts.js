@@ -28,10 +28,6 @@ buttonArray.forEach((button) => {
     })
 });
 
-const clickOff = () => {
-    isClicked = false;
-}
-
 /* This is the event handler for the submit button.
 1 - This event will hide the items displayed in the survey and load the thank you page.
 2- It will change the value displayed as the given rating.
