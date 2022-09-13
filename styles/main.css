@@ -1,0 +1,119 @@
+body {
+    background-color: hsl(216, 12%, 8%);
+}
+
+.square-background{
+    position: fixed;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 400px;
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 30px;
+    font-family: 'Overpass', sans-serif;
+}
+
+#parent-container {
+    text-align: left;
+    padding: 30px;
+    margin: 0;
+}
+
+h1 {
+    color:hsl(0, 0%, 100%);
+    font-size: 30px;
+}
+
+p {
+    color:hsl(217, 12%, 63%);
+    font-size: 15px;
+}
+
+#star{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color:rgb(46, 55, 65);
+    border: none;
+    color: hsl(25, 97%, 53%);
+    font-size: 20px;
+    
+}
+
+.selection-buttons {
+  
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color:rgb(46, 55, 65);
+    border: none;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color:hsl(217, 12%, 63%);
+    font-weight: bold;
+}
+
+.selection-buttons:hover {
+    background-color:hsl(25, 97%, 53%);
+    color:hsl(0, 0%, 100%);
+    cursor: pointer;
+}
+
+.selection-buttons:focus {
+    background-color:hsl(217, 12%, 63%);
+    color:hsl(0, 0%, 100%);
+}
+
+#submit-btn {
+    width: 100%;
+    background-color: hsl(0, 0%, 100%);
+    padding: 15px;
+    border-radius: 30px;
+    border: none;
+    color: hsl(25, 97%, 53%);
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+#submit-btn:hover {
+    background-color: hsl(25, 97%, 53%);
+    color:hsl(0, 0%, 100%);
+    cursor: pointer;
+}
+
+form {
+   text-align: center;
+}
+
+#rating-numbers {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding-bottom: 
+}
+
+
+#square1 {
+    display: none; 
+}
+
+#thankyou-container {
+    margin: 0;
+    text-align: center;
+    padding: 40px 30px;
+}
+
+#given-rating {
+    height: 30px;
+    width: 50%;
+    border-radius: 30px;
+    background-color:rgb(46, 55, 65);
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color:hsl(25, 97%, 53%);
+}
