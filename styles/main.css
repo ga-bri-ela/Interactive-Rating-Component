@@ -62,7 +62,7 @@ p {
     cursor: pointer;
 }
 
-.selection-buttons:focused {
+.selection-buttons:focus {
     background-color:hsl(217, 12%, 63%);
     color:hsl(0, 0%, 100%);
 }
