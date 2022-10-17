@@ -7,7 +7,7 @@ I particularly enjoy completing these type of challenges as they are a great opp
 
 ## The Challenge 🧩
 
-According to Frontend Mentor, to complete the [Interactive Rating Component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) Challenge, the users using the component should be to:
+According to Frontend Mentor, to complete the [Interactive Rating Component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) Challenge, the users should be to:
 -	Select and submit a number rating
 -	See the “Thank you” card state after submitting a rating
 -	See hover and focus states for all interactive elements on the page
