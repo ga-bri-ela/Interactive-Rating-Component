@@ -11,10 +11,13 @@ According to Frontend Mentor, to complete the [Interactive Rating Component](htt
 -	Select and submit a number rating
 -	See the “Thank you” card state after submitting a rating
 -	See hover and focus states for all interactive elements on the page
--	
+
 ![screenshot of the number rating screen]( https://github.com/ga-bri-ela/Interactive-Rating-Component/blob/main/rating-screenshot%20one.png?raw=true)
+
 This is the first screen, where the user can select the rating. The hover state represented in orange and the focused in gray. 
+
 ![screenshot of the “thank you” state](https://github.com/ga-bri-ela/Interactive-Rating-Component/blob/main/rating-screenshot%20two.png?raw=true)
+
 This is the second screen, where the user can see the rating they have selected and a thank you message.
 
 ## Technologies 💻
@@ -27,4 +30,5 @@ This was the first challenge I have completed from Frontend Mentor and the first
 It was also the first time I published some of my code for the world to see and comment. And it turns out that I have received helpful comments from kind strangers regarding good coding practices and learned a lot from that. I guess the internet isn’t the horrible place of humiliation that I thought it was. (Well, it is. But now I know there are good corners too!)
 
 ## Continued development 👩‍🎓
+
 This simple project has no intent other than serving as a practice project and a steppingstone leading me towards more complex applications. So, summing up, the code is not great, but it works, and I have learned a lot by building it. Things that I will be applying in other projects, as I am ready for bigger, greater (and more exciting!) things.  🚀
